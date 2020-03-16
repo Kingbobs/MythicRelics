@@ -1,1 +1,1 @@
-# Relic
+# MythicRelic
