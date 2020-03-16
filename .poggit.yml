@@ -3,5 +3,5 @@ branches:
 - master
 projects:
   MythicRelics:
-    path: "3.0.0"
+    path: ""
 ...
